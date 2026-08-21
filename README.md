@@ -86,9 +86,8 @@ This suggests there is "market concentration risk" this happens when revenue fro
 27 of 40 orders have been shipped, fulfilled revenue of $3,694. The missing 13 orders represent a potential revenue risk.
 
 | === SHIPPING STATUS === |
-|-------------------------|
+|---------|-------|-------|
 | Shipped | count | sum |  
-|---------|-------|-----|
 | No | 13 | 1879.0 |
 | Yes | 27 | 3694.0 |
 
